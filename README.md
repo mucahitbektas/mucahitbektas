@@ -23,7 +23,7 @@ I'm Mücahit Bektaş, software developer👨🏻‍💻from İstanbul. I'm an op
 
 	def oneDayCycle(self):
         while(alive):
-		    eat()
+	    eat()
             code()
             sleep()
 
@@ -44,7 +44,7 @@ I'm Mücahit Bektaş, software developer👨🏻‍💻from İstanbul. I'm an op
 - 💼 I’m pursuing a <strong>B.Sc. Computer Science degree in computer science</strong>.
 - 🔭 I’m currently working on <strong>Artificial Intelligence</strong> and <strong>Algorithmic Trading</strong>
 - 🌱 I’m currently learning <strong>Tensorflow-Keras</strong> and <strong>Hybrid Cloud</strong>
-- 🤔 My research interests are with <strong>Blockchain Systems, Deep Learning, Computer Vision </strong>, etc
+- 🤔 My research interests are with <strong>Blockchain Systems, Deep Learning, Computer Vision </strong> etc
 - 🔍 I’m looking for career opportunities in the <strong>aerospace</strong> industry
 - 💬 Feel free to discuss with me about <strong>Clustering Algorithms, Deep Learning applications, Blockchain(Smart contracts, DApps) </strong>
 - 👀 See my [Personal Portfolio](https://www.mucahitbektas.com) to get more info

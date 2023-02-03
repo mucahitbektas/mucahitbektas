@@ -1,4 +1,4 @@
-<h1>Hi, Welcome my Gitgub page✅ </h1>
+<h1>Hi, Welcome my Github page✅ </h1>
 
 I'm Mücahit Bektaş, software developer👨🏻‍💻from İstanbul. I'm an open-source profession and mostly develop in C/C++ and Python 🐍.
 <br><br>

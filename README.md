@@ -71,8 +71,8 @@ I'm Mücahit Bektaş, software developer👨🏻‍💻from İstanbul. I'm an op
 ## GitHub Highlights: 💻
 
 <br>
+
 <p align="center">
-<a href="">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahitbektas&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahitbektas&hide=Procfile&theme=tokyonight"/>
 </p>
+

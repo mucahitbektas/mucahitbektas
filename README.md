@@ -1,6 +1,6 @@
-<h1>Hi, Welcome my Gitgub page<img src= "https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8" width="30"/> </h1>
+<h1>Hi, Welcome my Gitgub page✅> </h1>
 
-I'm Mücahit Bektaş✅, software developer 👨🏻‍💻 from İstanbul. I'm an open-source profession and mostly develop in C/C++ and Python 🐍.
+I'm Mücahit Bektaş, software developer👨🏻‍💻from İstanbul. I'm an open-source profession and mostly develop in C/C++ and Python 🐍.
 <br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&vCenter=true&width=500&lines=+Self+taught+full+time+learner;Python+Developer+within+2%2B+years+experience;Computer+science+student;AI+lover+%3C3)](https://git.io/typing-svg)
 

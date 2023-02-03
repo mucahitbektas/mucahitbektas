@@ -11,7 +11,6 @@ I'm Mücahit Bektaş, software developer👨🏻‍💻from İstanbul. I'm an op
    user = 'mucahitbektas'
    current_edu = "IAU"
    working_on = "DeepLearningApplications"
-   fun_fact = "I hate Chillies"
    hobbies = [
 				'Programming',
 				'CTF',

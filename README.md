@@ -17,7 +17,7 @@ I'm Mücahit Bektaş, software developer👨🏻‍💻from İstanbul. I'm an op
 		'CTF',
                 'Sci-Fi Movies',
 		'Gaming'
-             ]	 ]
+             ]	 
 
 	def getCity(self):
 		return Istanbul_Türkiye(🇹🇷)

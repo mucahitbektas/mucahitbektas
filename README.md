@@ -18,14 +18,14 @@ I'm Mücahit Bektaş, software developer👨🏻‍💻from İstanbul. I'm an op
 		'Gaming'
              ]	 
 
-	def getCity(self):
-		return Istanbul_Türkiye(🇹🇷)
+    def getCity(self):
+	return Istanbul_Türkiye(🇹🇷)
 
-	def oneDayCycle(self):
+    def oneDayCycle(self):
         while(alive):
 	    eat()
             code()
-            sleep()
+	    sleep()
 
 ```
 
